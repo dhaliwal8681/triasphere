@@ -1,0 +1,21 @@
+.Body-printable {
+}
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+
+  .Body-printable * {
+    visibility: visible;
+  }
+
+  .Body-printable {
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+  }
+}

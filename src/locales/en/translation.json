@@ -1,0 +1,90 @@
+{
+  "title": "Calligraphy Guidelines",
+  "tabNames": {
+    "basic": "Basic",
+    "custom": "Custom",
+    "lines": "Lines",
+    "debug": "Debug"
+  },
+  "buttonNames": {
+    "download": "Download",
+    "popout": "Pop Out",
+    "print": "Print"
+  },
+
+  "ascender": "Ascender",
+  "baseline": "Baseline",
+  "descender": "Descender",
+  "halfline": "Half-Line",
+  "gap": "Gap",
+  "guideline": "Angle Guides",
+  "midline": "Midline",
+  "x": "X",
+
+  "thickness": "Thickness",
+  "xheight": "X Height",
+  "ratios": "Ratios",
+
+  "color": "Color",
+  "colorNames": {
+    "black": "Black",
+    "blue": "Blue",
+    "cyan": "Cyan",
+    "darkgray": "Dark Gray",
+    "gray": "Gray",
+    "graypct": "Gray {{pct}}%",
+    "green": "Green",
+    "lightgray": "Light Gray",
+    "nonphotoblue": "Blue (non-photo)",
+    "pink": "Pink",
+    "red": "Red",
+    "transparent": "None",
+    "white": "White",
+    "yellow": "Yellow"
+  },
+
+  "dash": "Dash",
+  "dashNames": {
+    "none": "Solid",
+    "1cm": "1cm",
+    "2cm": "2cm",
+    "42vary": "4cm / 2cm"
+  },
+
+  "presets": "Presets",
+  "custom": "Custom",
+  "simple": "Basic Penmanship",
+  "italic": "Italic 2:4:2 83°",
+  "copperplate": "Copperplate (Winters) 3:2:3 55°",
+  "spencerian": "Spencerian 2:1:2 52°",
+  "foundation": "Foundation 2:2:2",
+  "german": "German Kurrent 2:1:2",
+
+  "pagesize": "Paper",
+  "a3": "A3",
+  "a4": "A4",
+  "a5": "A5",
+  "ledger": "US Ledger (11x17)",
+  "letter": "US Letter",
+  "legal": "US Legal",
+
+  "pageorientation": "Orientation",
+  "landscape": "Landscape",
+  "portrait": "Portrait",
+
+  "gapcolor": "Gap Color",
+  "globalmargin": "Printer Margin",
+  "guideangle": "Guide Angle",
+  "guidespacing": "Guide Spacing",
+  "watermark": "Watermark",
+  "xmarker": "X Marker",
+
+  "selectlanguage": "Language",
+  "languages": {
+    "de": "German",
+    "en": "English",
+    "en-GB": "English (United Kingdom)",
+    "es": "Español",
+    "tr": "Türkçe"
+  }
+}

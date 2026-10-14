@@ -1,0 +1,67 @@
+{
+  "title": "Pautas de Caligrafía",
+  "tabNames": {
+    "basic": "Básicos",
+    "custom": "Avanzado",
+    "lines": "Rayas"
+  },
+  "buttonNames": {
+    "download": "Descargar",
+    "popout": "Salirse",
+    "print": "Imprimir"
+  },
+
+  "baseline": "Línea de Base",
+  "gap": "Espacio",
+  "guideline": "Guías Angulares",
+  "midline": "Medio",
+
+  "thickness": "Grosor",
+  "xheight": "X Altura",
+  "ratios": "Proporciónes",
+
+  "color": "Color",
+  "colorNames": {
+    "black": "Negro",
+    "blue": "Azul",
+    "cyan": "Cian",
+    "darkgray": "Gris Oscuro",
+    "gray": "Gris",
+    "graypct": "Gris {{pct}}%",
+    "green": "Verde",
+    "lightgray": "Gris Claro",
+    "nonphotoblue": "Azul (no fotografiar)",
+    "pink": "Rosado",
+    "red": "Rojo",
+    "transparent": "Nada",
+    "white": "Blanco",
+    "yellow": "Amarillo"
+  },
+
+  "dash": "Guión",
+  "dashNames": {
+    "none": "Sólida"
+  },
+
+  "presets": "Programar",
+  "custom": "Personalizado",
+  "simple": "Caligrafía Básica",
+
+  "pagesize": "Papel",
+  "ledger": "US Libro Mayor (11x17)",
+  "letter": "US Carta",
+  "legal": "US Legal",
+
+  "pageorientation": "Orientación",
+  "landscape": "Horizontal",
+  "portrait": "Vertical",
+
+  "gapcolor": "Color de Espacio",
+  "globalmargin": "Margen",
+  "guideangle": "Ángulo de Guía",
+  "guidespacing": "Entre Guías",
+  "watermark": "Filigrana",
+  "xmarker": "Señal",
+
+  "selectlanguage": "Idioma"
+}
